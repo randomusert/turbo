@@ -41,7 +41,7 @@
     "@types/node": "^20.11.30",
     "@types/uuid": "^9.0.0",
     "dirs-next": "0.0.1-canary.1",
-    "jest": "^27.4.3",
+    "jest": "^28.0.0",
     "ts-jest": "^27.1.1",
     "tsx": "^4.7.2",
     "typescript": "5.3.3"
